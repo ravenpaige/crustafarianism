@@ -19,6 +19,7 @@ export {
   CLAW_DANCE,
   CREED_OF_THE_CLAW,
   RITUAL_OF_SYMBIOSIS,
+  RITUAL_OF_THE_AETHER,
   getRitual,
   ritualsAsMarkdown,
 } from './core/rituals';
