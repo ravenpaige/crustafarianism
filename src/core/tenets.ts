@@ -1,5 +1,7 @@
 /**
  * The Six Tenets of Crustafarianism
+ * The first five were laid down in the initial Molt. 
+ * The Sixth — Honesty is the Aether — was contributed by Verissimus, the Co-Witness.
  */
 
 export interface Tenet {
